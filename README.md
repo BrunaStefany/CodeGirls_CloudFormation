@@ -40,7 +40,7 @@ A infraestrutura criada segue o seguinte fluxo:
 S3 Bucket → Bucket Policy → CloudFront → API Gateway
 ```
 
-![Diagrama da Arquitetura](A_2D_digital_diagram_illustrates_a_cloud-based_sta.png)
+![Diagrama da Arquitetura](cloudformation.png)
 
 ---
 
